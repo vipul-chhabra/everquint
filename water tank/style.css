@@ -1,0 +1,29 @@
+td {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 0.5px solid black;
+}
+
+#data {
+  width: 40%;
+}
+
+.calc {
+  text-align: center;
+}
+  
+table{
+  width: 100%;
+  border-collapse: collapse;
+}
+  
+.inp-vis, .out-vis{
+  display: flex;
+  align-items: center;
+  margin: 15px;
+}
+  
+h1, h3, p {
+  font-family: sans-serif;
+  text-align: center;
+}
